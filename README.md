@@ -50,13 +50,13 @@ uipath, c sharp, sql, python, html, css, excel, vba, photoshop, premire pro, lig
 
 class About extends Me { 
   const myTools = {
-    "UiPath Features" : { "Studio", "Assistant", "Orchestrator", "Apps", "Data Services" }
+    "UiPath Features"     : { "Studio", "Assistant", "Orchestrator", "Apps", "Data Services" }
     "ProgramingLanguages" : { "C Sharp", "Python", "C" },
-    "OtherLanguages" : { "HTML", "CSS", ", "Json" },
-    "Database" : { "SQL" },
-    "Editors" : { "Vscode", "PyCharm", "Sublime" "Jypiter-Notebook" },
-    "Platforms" : { "Windows", "GNU/Linux" },
-    "OtherTools" : { "Git", "Command Prompt", "RDP-Mstsc", "Photoshop", "Premire Pro", "Lightroom", "Canva", "Filmora" }
+    "OtherLanguages"      : { "HTML", "CSS", ", "Json" },
+    "Database"            : { "SQL" },
+    "Editors"             : { "Vscode", "PyCharm", "Sublime" "Jypiter-Notebook" },
+    "Platforms"           : { "Windows", "GNU/Linux" },
+    "OtherTools"          : { "Git", "Command Prompt", "RDP-Mstsc", "Photoshop", "Premire Pro", "Lightroom", "Canva", "Filmora" }
   };
 }
 ```
