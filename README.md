@@ -56,7 +56,7 @@ class About extends Me {
     "Database" : { "SQL" },
     "Editors" : { "Vscode", "PyCharm", "Sublime" "Jypiter-Notebook" },
     "Platforms" : { "Windows", "GNU/Linux" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    "OtherTools" : { "Git", "Command Prompt", "RDP-Mstsc", "Photoshop", "Premire Pro", "Lightroom", "Canva", "Filmora" }
   };
 }
 ```
